@@ -1,10 +1,6 @@
 code: task_list_page_template
 description: Task list page template
-
-group: free
-
 templatePath: task_list_page_template.ftl
-
 configuration:
   frames:
     - pos: 0

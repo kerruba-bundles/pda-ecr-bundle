@@ -1,10 +1,6 @@
 code: task_details_page_template
 description: Task details page template
-
-group: free
-
 templatePath: task_details_page_template.ftl
-
 configuration:
   frames:
     - pos: 0

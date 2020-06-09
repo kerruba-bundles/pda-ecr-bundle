@@ -1,10 +1,6 @@
 code: dashboard_page_template
 description: Dashboard page template
-
-group: free
-
 templatePath: dashboard_page_template.ftl
-
 configuration:
   frames:
     - pos: 0
